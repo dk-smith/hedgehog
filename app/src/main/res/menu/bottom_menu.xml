@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jokes"
+        android:title="Jokes"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24"
+        />
+    <item
+        android:id="@+id/api_info"
+        android:title="Api Info"
+        android:icon="@drawable/ic_baseline_public_24"
+        />
+</menu>
